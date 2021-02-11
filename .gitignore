@@ -1,0 +1,5 @@
+.ddev/
+wp-content/themes/hannnashints/node_modules
+wp-content/themes/hannnashints/node_modules/.bin
+wp-config.php
+wp-config-ddev.php

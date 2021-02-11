@@ -1,0 +1,98 @@
+{
+    "version": "0.4",
+    "title": "Block: Photo carousel full width",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4c896b08",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1a20a090",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1320cd5e",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 91,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/portrait-of-a-beautiful-young-businesswoman-PYFRDT9.jpg"
+                                    },
+                                    {
+                                        "id": 92,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/side-view-of-young-caucasian-female-graphic-design-LZ9TBFC.jpg"
+                                    },
+                                    {
+                                        "id": 93,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/successful-businesswoman-with-an-e-business-P2KWWNR.jpg"
+                                    },
+                                    {
+                                        "id": 94,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/top-view-of-white-office-female-workspace-with-pc-PCJVTC5.jpg"
+                                    },
+                                    {
+                                        "id": 95,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/woman-holding-smartphone-above-business-desk-DPRZ3JT.jpg"
+                                    },
+                                    {
+                                        "id": 89,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/young-caucasian-female-graphic-designer-working-on-F7SDUEX.jpg"
+                                    },
+                                    {
+                                        "id": 88,
+                                        "url": "https:\/\/demos.bakerwebdev.net\/refresh\/wp-content\/uploads\/sites\/15\/2020\/04\/entering-number-of-credit-card-on-website-U47LPMJ.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "custom",
+                                "thumbnail_custom_dimension": {
+                                    "width": "500",
+                                    "height": "300"
+                                },
+                                "slides_to_show": "5",
+                                "navigation": "none",
+                                "gallery_vertical_align": "center",
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

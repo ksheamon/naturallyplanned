@@ -1,0 +1,16 @@
+[02-Feb-2021 19:10:24 UTC] PHP Fatal error:  Uncaught Requests_Exception_HTTP_403: 403 Forbidden in /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/core/frontend/render-mode-manager.php:133
+Stack trace:
+#0 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/core/frontend/render-mode-manager.php(151): Elementor\Core\Frontend\Render_Mode_Manager->add_current_actions()
+#1 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/includes/frontend.php(192): Elementor\Core\Frontend\Render_Mode_Manager->__construct()
+#2 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-includes/class-wp-hook.php(287): Elementor\Frontend->init_render_mode('')
+#3 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp- in /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/core/frontend/render-mode-manager.php on line 133
+[02-Feb-2021 19:10:26 UTC] PHP Fatal error:  Uncaught Requests_Exception_HTTP_403: 403 Forbidden in /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/core/frontend/render-mode-manager.php:133
+Stack trace:
+#0 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/core/frontend/render-mode-manager.php(151): Elementor\Core\Frontend\Render_Mode_Manager->add_current_actions()
+#1 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/includes/frontend.php(192): Elementor\Core\Frontend\Render_Mode_Manager->__construct()
+#2 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-includes/class-wp-hook.php(287): Elementor\Frontend->init_render_mode('')
+#3 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp- in /home2/ksheamon/naturallyplanned.ksheamon.com/hannashints/wp-content/plugins/elementor/core/frontend/render-mode-manager.php on line 133
